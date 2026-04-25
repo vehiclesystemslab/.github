@@ -1,14 +1,11 @@
 # VEHICLE Systems Lab
 
 **VEHICLE**  
-*A research initiative focused on auditable structural tension in hybrid systems of humans, organizations, and artificial intelligence.*
+A research initiative dedicated to the auditable study of structural tension in hybrid systems of humans, organizations, and artificial intelligence.
 
 ## About
 
-VEHICLE Systems Lab is an initiative dedicated to building a new layer of structural intelligibility for the agentic era.
-
-Its purpose is to study, describe, and eventually model the structural tension that emerges when humans, organizations, processes, rules, and artificial intelligence operate within the same system.
-
+VEHICLE Systems Lab is a research initiative dedicated to building a new layer of structural intelligibility for the agentic era, with a focus on tension, fragility, containment, and robustness in hybrid systems.
 ## Mission
 
 To build an auditable science of structural tension in hybrid systems of humans, organizations, and artificial intelligence.
@@ -17,7 +14,7 @@ To build an auditable science of structural tension in hybrid systems of humans,
 
 To develop a rigorous framework capable of observing, describing, measuring, and eventually simulating the tension, fragility, containment, and robustness of hybrid systems.
 
-## Current Focus
+## Current Research Focus
 
 - foundational research
 - conceptual framework
@@ -40,7 +37,7 @@ This case is used as an early example to show why hybrid enterprises increasingl
 
 ## Status
 
-Foundational stage in progress.
+Foundational research and institutional development in progress.
 
 ---
 
